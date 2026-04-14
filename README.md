@@ -22,9 +22,13 @@ gerenciamento de tarefas por data.
 
 ## Estrutura do Projeto
 
-lib/ │ ├── models/ │ └── task.dart │ ├── screens/ │ ├──
-login_screen.dart │ ├── register_screen.dart │ └── home_screen.dart │
-└── main.dart
+lib/ 
+model/ -task.dart 
+
+screens/ login_screen.dart - register_screen.dart - home_screen.dart 
+
+ main.dart
+ 
 
 ------------------------------------------------------------------------
 
@@ -54,31 +58,4 @@ calendário.
 
 ------------------------------------------------------------------------
 
-## Execução do Projeto
 
-git clone https://github.com/seuusuario/app-tarefas-flutter.git cd
-app-tarefas-flutter flutter pub get flutter run
-
-------------------------------------------------------------------------
-
-## Observações
-
--   Não possui persistência de dados
--   Autenticação simulada
--   Dados são perdidos ao reiniciar o aplicativo
-
-------------------------------------------------------------------------
-
-## Próximas Melhorias
-
--   Persistência com banco de dados (SQLite ou Hive)
--   Implementação de autenticação real
--   Validação de formulários
--   Gerenciamento de estado (Provider, Riverpod ou similar)
--   Separação em camadas (arquitetura limpa)
-
-------------------------------------------------------------------------
-
-## Autor
-
-Gabriel
