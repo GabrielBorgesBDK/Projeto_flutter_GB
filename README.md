@@ -6,7 +6,7 @@
   
   <img src="assets/images/Home.png" width="250"/>
   <img src="assets/images/Calendario.png" width="250"/>
-  <img src="assets/images/Adicionartarefa.png" width="250"/>
+  <img src="assets/images/marcartarefa.png" width="250"/>
   
 </p>
 
