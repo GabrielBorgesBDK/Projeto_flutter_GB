@@ -1,5 +1,14 @@
 # App de Tarefas Flutter
 
+## Preview
+
+<p align="center">
+  <img src="assets/images/Adicionartarefa.png" width="250"/>
+  <img src="assets/images/Home.png" width="250"/>
+  <img src="assets/images/Calendario.png" width="250"/>
+</p>
+
+
 Aplicativo mobile desenvolvido em Flutter com autenticação básica e
 gerenciamento de tarefas por data.
 
